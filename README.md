@@ -2,9 +2,9 @@
 
 Kinematic vehicle models (basic, differential-drive, bicycle) and lateral/longitudinal path-tracking controllers (PID, Pure Pursuit, Stanley, LQR), tested on real F1 circuits (Silverstone, Suzuka, Monza). Built for the "Robotic Navigation and Exploration" course (NTHU).
 
-> The original project description (written by the course instructor) is not included here for copyright reasons. It can be found here: [Project description](<TBD: Google Drive link>).
+> The original project description (written by the course instructor) is not included here for copyright reasons. It can be found here: [Project description](https://drive.google.com/file/d/1PAM7s0XXkES9RXhLmbd79fSCX7Yu8zGY/view?usp=drive_link).
 
-> My own written report: [report](<TBD: Google Drive link>).
+> My own written report: [report](https://drive.google.com/file/d/1F1707v_WjYGlHK1V-SAI9hR7jrJyWnPK/view?usp=drive_link).
 
 ## Structure
 
